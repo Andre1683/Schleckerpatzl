@@ -1,0 +1,11 @@
+{
+  "name": "Schleckerpatzl",
+  "short_name": "SchleckerpatzlApp",
+  "icons": [
+    { "src": "icons/icon.png", "sizes": "500x500", "type": "image/png" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4081"
+}
